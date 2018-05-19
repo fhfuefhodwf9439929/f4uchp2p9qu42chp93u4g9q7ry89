@@ -59,4 +59,4 @@ message.delete();
 
 
 
-client.login(PROCESS.ENV.TOKEN);
+client.login(process.env.TOKEN);
